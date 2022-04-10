@@ -1,0 +1,26 @@
+{
+  "name": "simple-text-to-speech",
+  "version": "1.0.0",
+  "description": "Belajar Convert Text ke Voice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "AI",
+    "Speech"
+  ],
+  "author": "Mathius",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  },
+  "dependencies": {
+    "simple-gtts": "^1.0.5"
+  }
+}
